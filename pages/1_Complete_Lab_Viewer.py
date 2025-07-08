@@ -10,11 +10,6 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from lab_trends import load_data, preprocess_data, filter_patient
 
-st.set_page_config(
-    page_title="Complete Lab Viewer",
-    page_icon="📊",
-)
-
 st.title('📊 Complete Lab Viewer')
 st.write("This view displays all available lab values for a selected patient.")
 
@@ -28,7 +23,7 @@ if uploaded_file is not None:
     st.success("CSV file successfully loaded!")
 else:
     try:
-        data = load_data('Clinical Lab Results_250518095247540.csv')
+        data = load_data('Last 4 month labs report_250706102346138.csv')
     except FileNotFoundError:
         st.error("Default data file not found. Please upload a CSV file.")
         st.stop()
@@ -102,7 +97,10 @@ else:
     with info_col2:
         st.write(f"**Name:** {patient_info['Last Name']}, {patient_info['First Name']}")
     with info_col3:
-        st.write(f"**DOB:** {patient_info['D.O.B.']}")
+        if 'D.O.B.' in patient_info and pd.notna(patient_info['D.O.B.']):
+            st.write(f"**DOB:** {patient_info['D.O.B.']}")
+        else:
+            st.write(f"**DOB:** N/A")
         
     # Create tabbed interface for different views
     tab1, tab2, tab3 = st.tabs(["📈 Trend Charts", "📋 Data Table", "📊 Summary Stats"])
@@ -199,7 +197,8 @@ else:
             ))
         else:
             st.dataframe(df_display[display_cols])
-      with tab3:
+    
+    with tab3:
         # Create summary statistics
         st.subheader("Summary Statistics by Analyte")
         

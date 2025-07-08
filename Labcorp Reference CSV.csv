@@ -1,0 +1,912 @@
+﻿Test #,Test Name,Analyte Name,Analyte #,Reference Range,Units
+322000,Comp. Metabolic Panel (14),"Carbon Dioxide, Total",001578,20-29,mmol/L
+322000,Comp. Metabolic Panel (14),Glucose,001032,70-99,mg/dL
+480293,CA 27.29 (Serial Monitor),PDF,511958,,
+142134,CA 27.29,N,1,,
+1321,Iron and TIBC,Iron Saturation,011362,15-55,%
+1321,Iron and TIBC,Iron,001339,27-159,ug/dL
+1321,Iron and TIBC,UIBC,001348,131-425,ug/dL
+1321,Iron and TIBC,Iron Bind.Cap.(TIBC),001347,250-450,ug/dL
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,0-32,IU/L
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,0-40,IU/L
+322000,Comp. Metabolic Panel (14),Alkaline Phosphatase,001107,44-121,IU/L
+322000,Comp. Metabolic Panel (14),"Bilirubin, Total",001099,0.0-1.2,mg/dL
+322000,Comp. Metabolic Panel (14),BUN,001040,45832,mg/dL
+322000,Comp. Metabolic Panel (14),"Globulin, Total",012039,1.5-4.5,g/dL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.9-4.9,g/dL
+322000,Comp. Metabolic Panel (14),"Protein, Total",001073,6.0-8.5,g/dL
+322000,Comp. Metabolic Panel (14),Calcium,001016,8.7-10.2,mg/dL
+322000,Comp. Metabolic Panel (14),Chloride,001206,96-106,mmol/L
+322000,Comp. Metabolic Panel (14),Potassium,001180,3.5-5.2,mmol/L
+322000,Comp. Metabolic Panel (14),Creatinine,001370,0.57-1.00,mg/dL
+322000,Comp. Metabolic Panel (14),eGFR,100779,>59,mL/min/1.73
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,45923,
+322000,Comp. Metabolic Panel (14),Sodium,001198,134-144,mmol/L
+480293,CA 27.29 (Serial Monitor),CA 27.29,142134,0.0-38.6,U/mL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.8-4.9,g/dL
+322000,Comp. Metabolic Panel (14),Calcium,001016,8.7-10.3,mg/dL
+322000,Comp. Metabolic Panel (14),BUN,001040,45896,mg/dL
+1537,Magnesium,Magnesium,001537,1.6-2.3,mg/dL
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,46019,
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,45920,
+322000,Comp. Metabolic Panel (14),Albumin,001081,4.1-5.1,g/dL
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,0-44,IU/L
+322000,Comp. Metabolic Panel (14),Creatinine,001370,0.76-1.27,mg/dL
+322000,Comp. Metabolic Panel (14),Calcium,001016,8.6-10.2,mg/dL
+480095,CEA (Serial Monitor),CEA,002169,0.0-4.7,ng/mL
+480095,CEA (Serial Monitor),PDF,511958,,
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,45954,
+480098,CEA (Roche),N,1,,
+5009,CBC With Differential/Platelet,Lymphs,015123,Not Estab.,%
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,0.7-3.1,x10E3/uL
+5009,CBC With Differential/Platelet,Monocytes,015131,Not Estab.,%
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,1.4-7.0,x10E3/uL
+5009,CBC With Differential/Platelet,RBC,005033,3.77-5.28,x10E6/uL
+5009,CBC With Differential/Platelet,Hematocrit,005058,34.0-46.6,%
+5009,CBC With Differential/Platelet,Platelets,015172,150-450,x10E3/uL
+5009,CBC With Differential/Platelet,MCHC,015081,31.5-35.7,g/dL
+5009,CBC With Differential/Platelet,MCH,015073,26.6-33.0,pg
+5009,CBC With Differential/Platelet,Hemoglobin,005041,11.1-15.9,g/dL
+5009,CBC With Differential/Platelet,RDW,105007,11.7-15.4,%
+5009,CBC With Differential/Platelet,Neutrophils,015107,Not Estab.,%
+5009,CBC With Differential/Platelet,WBC,005025,3.4-10.8,x10E3/uL
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,0.1-0.9,x10E3/uL
+5009,CBC With Differential/Platelet,Eos,015149,Not Estab.,%
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,0.0-0.4,x10E3/uL
+5009,CBC With Differential/Platelet,Basos,015156,Not Estab.,%
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,0.0-0.2,x10E3/uL
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,Not Estab.,%
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,0.0-0.1,x10E3/uL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.8-4.8,g/dL
+5009,CBC With Differential/Platelet,MCV,015065,79-97,fL
+167377,HLA-A (HR),HLA-A,019414,,
+167377,HLA-A (HR),HLA-A,019415,,
+167377,HLA-A (HR),HLA Methodology,167384,,
+480145,PSA (Serial Monitor),Prostate Specific Ag,010334,0.0-4.0,ng/mL
+1024,Phosphorus,Phosphorus,001024,2.8-4.1,mg/dL
+483404,CA 15-3 (Serial Monitor),Cancer Antigen 15-3,143413,0.0-25.0,U/mL
+143413,CA 15-3,N,1,,
+8300,"Blood Culture, Routine","Blood Culture, Routine",008300,,
+4598,Ferritin,Ferritin,004598,15-150,ng/mL
+8300,"Blood Culture, Routine",Result 1,997181,,
+1156,T3 Uptake,T3 Uptake,001156,24-39,%
+4259,TSH,TSH,004264,0.450-4.500,uIU/mL
+10389,"Triiodothyronine (T3), Free","Triiodothyronine (T3), Free",010389,2.0-4.4,pg/mL
+1974,"Thyroxine (T4) Free, Direct","T4,Free(Direct)",019745,0.82-1.77,ng/dL
+1115,LDH,LDH,001115,119-226,IU/L
+480293,CA 27.29 (Serial Monitor),Serial Monitoring,G80020,,
+100137,Status Report,Status Report,100137,,
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,,
+810,Vitamin B12 and Folate,"Folate (Folic Acid), Serum",002020,>3.0,ng/mL
+810,Vitamin B12 and Folate,Vitamin B12,001503,232-1245,pg/mL
+810,Vitamin B12 and Folate,Note:,002021,,
+81950,"Vitamin D, 25-Hydroxy","Vitamin D, 25-Hydroxy",081953,30.0-100.0,ng/mL
+706994,Homocyst(e)ine,Homocyst(e)ine,707009,0.0-14.5,umol/L
+1776,"Immunoglobulin G, Qn, Serum","Immunoglobulin G, Qn, Serum",001776,586-1602,mg/dL
+998280,No Test Indicated,"Dear Doctor,",998282,,
+998280,No Test Indicated,.,998281,,
+3772,"Urinalysis, Complete",Specific Gravity,013060,1.005-1.030,
+3772,"Urinalysis, Complete","Urobilinogen,Semi-Qn",013105,0.2-1.0,mg/dL
+3772,"Urinalysis, Complete",pH,013078,5.0-7.5,
+3772,"Urinalysis, Complete","Nitrite, Urine",013106,Negative,
+3772,"Urinalysis, Complete",Bilirubin,013104,Negative,
+3772,"Urinalysis, Complete",Occult Blood,013102,Negative,
+3772,"Urinalysis, Complete",Ketones,013110,Negative,
+3772,"Urinalysis, Complete",Glucose,013086,Negative,
+3772,"Urinalysis, Complete",Protein,013094,Negative/Trace,
+3772,"Urinalysis, Complete",WBC Esterase,013185,Negative,
+3772,"Urinalysis, Complete",Appearance,013052,Clear,
+3772,"Urinalysis, Complete",Urine-Color,013045,Yellow,
+3772,"Urinalysis, Complete",Bacteria,333344,None seen/Few,
+3772,"Urinalysis, Complete",Casts,013145,None seen,/lpf
+3772,"Urinalysis, Complete",Epithelial Cells (non renal),013148,0 - 10,/hpf
+3772,"Urinalysis, Complete",RBC,013136,0 -  2,/hpf
+3772,"Urinalysis, Complete",WBC,013128,0 -  5,/hpf
+3772,"Urinalysis, Complete",Microscopic Examination,012237,,
+3772,"Urinalysis, Complete",Urinalysis Gross Exam,133330,,
+10334,Prostate-speci,N,1,,
+480145,PSA (Serial Monitor),PDF,511958,,
+4226,Testosterone,Testosterone,004227,264-916,ng/dL
+322000,Comp. Metabolic Panel (14),"Protein, Total",001073,6.2-8.2,g/dL
+322000,Comp. Metabolic Panel (14),Creatinine,001370,0.50-1.00,mg/dL
+322000,Comp. Metabolic Panel (14),Sodium,001198,135-145,mmol/L
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,10.0-24.0,ratio
+322000,Comp. Metabolic Panel (14),Potassium,001180,3.5-5.0,mmol/L
+322000,Comp. Metabolic Panel (14),Calcium,001016,8.7-10.4,mg/dL
+322000,Comp. Metabolic Panel (14),Chloride,001206,99-109,mmol/L
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.5-5.0,g/dL
+322000,Comp. Metabolic Panel (14),"Globulin, Total",012039,2.2-4.2,g/dL
+322000,Comp. Metabolic Panel (14),"Carbon Dioxide, Total",001578,23-33,mmol/L
+322000,Comp. Metabolic Panel (14),BUN,001040,45894,mg/dL
+322000,Comp. Metabolic Panel (14),A/G Ratio,012047,1.0-1.9,ratio
+322000,Comp. Metabolic Panel (14),eGFR,100779,>60,
+322000,Comp. Metabolic Panel (14),"Bilirubin, Total",001099,0.10-1.50,mg/dL
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,16711,U/L
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,24016,U/L
+322000,Comp. Metabolic Panel (14),Alkaline Phosphatase,001107,46-116,U/L
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.7-4.7,g/dL
+1321,Iron and TIBC,Iron,001339,38-169,ug/dL
+1321,Iron and TIBC,UIBC,001348,111-343,ug/dL
+322000,Comp. Metabolic Panel (14),BUN,001040,45828,mg/dL
+322000,Comp. Metabolic Panel (14),Potassium,001180,3.5-5.2,
+322000,Comp. Metabolic Panel (14),Glucose,001032,70-99,
+977740,One Specimen Identifier,One Specimen Identifier,977740,,
+1776,"Immunoglobulin G, Qn, Serum","Immunoglobulin G, Qn, Serum",001776,603-1613,mg/dL
+480053,CA 19-9 (Serial),PDF,511958,,
+480053,CA 19-9 (Serial),CA 19-9,002282,0-35,U/mL
+1321,Iron and TIBC,Iron,001339,27-139,ug/dL
+1321,Iron and TIBC,UIBC,001348,118-369,ug/dL
+199999,Please note,Please note,199999,,
+5009,CBC With Differential/Platelet,Hematocrit,005058,37.5-51.0,%
+5009,CBC With Differential/Platelet,Hemoglobin,005041,13.0-17.7,g/dL
+5009,CBC With Differential/Platelet,RBC,005033,4.14-5.80,x10E6/uL
+480061,"CA 125, Serum (Serial)",Cancer Antigen (CA) 125,002321,0.0-38.1,U/mL
+480061,"CA 125, Serum (Serial)",PDF,511958,,
+5009,CBC With Differential/Platelet,RDW,105007,11.6-15.4,%
+480060,Cancer Antigen,N,1,,
+1917,"G6PD,Qn,Bld and Red Cell Count",Comment:,001929,,
+1917,"G6PD,Qn,Bld and Red Cell Count",RBC,005033,3.77-5.28,x10E6/uL
+1917,"G6PD,Qn,Bld and Red Cell Count","G-6-PD, Quant",001927,127-427,U/10E12 RBC
+480260,Flow panel: Leukemia/Lymphoma,Indications for Study,490042,,
+480260,Flow panel: Leukemia/Lymphoma,Flow Comment,490025,,
+480260,Flow panel: Leukemia/Lymphoma,Specimen Type,490027,,
+480260,Flow panel: Leukemia/Lymphoma,Flow Interpretation,490024,,
+480260,Flow panel: Leukemia/Lymphoma,Comment:,490046,,
+480260,Flow panel: Leukemia/Lymphoma,Resulting Path Name,490039,,
+977900,Written Authorization,Written Authorization,977900,,
+483404,CA 15-3 (Serial Monitor),PDF,511958,,
+4598,Ferritin,Ferritin,004598,30-400,ng/mL
+303756,Lipid Panel,VLDL Cholesterol Cal,011919,14732,mg/dL
+303756,Lipid Panel,LDL Chol Calc (NIH),012059,0-99,mg/dL
+303756,Lipid Panel,HDL Cholesterol,011817,>39,mg/dL
+303756,Lipid Panel,Triglycerides,001172,0-149,mg/dL
+303756,Lipid Panel,"Cholesterol, Total",001065,100-199,mg/dL
+1453,Hemoglobin A1c,Please Note:,001482,,
+100552,Request Problem,Request Problem,100552,,
+1453,Hemoglobin A1c,Hemoglobin A1c,001481,4.8-5.6,%
+5280,Reticulocyte Count,Reticulocyte Count,005280,0.6-2.6,%
+1115,LDH,LDH,001115,121-224,IU/L
+1628,Haptoglobin,Haptoglobin,001628,29-370,mg/dL
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e13a2 (b2a2) transcript,481509,,%
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e14a2 (b3a2) transcript,481510,,%
+4259,TSH,TSH,004264,0.450-4.500,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e1a2 transcript,481516,,%
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Director Review,489031,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Background,481507,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",PDF,511958,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Interpretation:,480488,,
+5009,CBC With Differential/Platelet,Hematology Comments:,015180,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",References,484516,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Methodology,481508,,
+481516,"BCR-ABL1, CML,",N,L,,
+480510,BCR-ABL1 kinase domain,Director Review:,480515,,
+480510,BCR-ABL1 kinase domain,Result:,480511,,
+480510,BCR-ABL1 kinase domain,Interpretation:,480843,,
+480510,BCR-ABL1 kinase domain,Methodology:,480844,,
+480510,BCR-ABL1 kinase domain,Disclaimer:,481526,,
+81950,"Vitamin D, 25-Hydroxy","Vitamin D, 25-Hydroxy",081953,30.0-100.0,
+480145,PSA (Serial Monitor),Prostate Specific Ag,010334,0.0-4.0,
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,0-35,IU/L
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,15-59,IU/L
+117006,"VEGF, Plasma","VEGF, Plasma",117057,0-115,
+1024,Phosphorus,Phosphorus,001024,3.0-4.3,mg/dL
+1057,Uric Acid,Uric Acid,001057,3.0-7.2,mg/dL
+5009,CBC With Differential/Platelet, Myelocytes,115403,0 - 0,%
+5009,CBC With Differential/Platelet, Metamyelocytes,115401,0 - 0,%
+5009,CBC With Differential/Platelet, Bands,115400,Not Estab.,%
+5009,CBC With Differential/Platelet, Promyelocytes,115404,0 - 0,%
+5009,CBC With Differential/Platelet,NRBC,015945,0 - 0,%
+977206,Ambig Abbrev CMP14 Default,Ambig Abbrev CMP14 Default,977206,,
+5009,CBC With Differential/Platelet,Immature Cells,115398,,
+121137,"Free K+L Lt Chains,Qn,S","Kappa/Lambda Ratio,S",121141,0.26-1.65,
+121137,"Free K+L Lt Chains,Qn,S","Free Lambda Lt Chains,S",121139,5.7-26.3,mg/L
+121137,"Free K+L Lt Chains,Qn,S","Free Kappa Lt Chains,S",121138,3.3-19.4,mg/L
+511200,UGT1A1 Irinotecan Toxicity,Director Review:,511208,,
+511200,UGT1A1 Irinotecan Toxicity,Result:,511202,,
+511200,UGT1A1 Irinotecan Toxicity,Disclaimer,512030,,
+511200,UGT1A1 Irinotecan Toxicity,Additional Information:,511224,,
+1784,"Immunoglobulin A, Qn, Serum","Immunoglobulin A, Qn, Serum",001784,61-437,mg/dL
+1768,"Immunoglobulins A/G/M, Qn, Ser","Immunoglobulin M, Qn, Serum",001792,26-217,mg/dL
+1768,"Immunoglobulins A/G/M, Qn, Ser","Immunoglobulin A, Qn, Serum",001784,64-422,mg/dL
+1768,"Immunoglobulins A/G/M, Qn, Ser","Immunoglobulin G, Qn, Serum",001776,586-1602,mg/dL
+500600,"1,25-Dihydroxy,Vitamin D by MS","1,25-Dihydroxy, Vitamin D-3",502630,,pg/mL
+500600,"1,25-Dihydroxy,Vitamin D by MS","Total 1,25-Dihydroxy,Vitamin D",500601,,pg/mL
+70104,"Reverse T3, Serum","Reverse T3, Serum",070135,,ng/dL
+500600,"1,25-Dihydroxy,Vitamin D by MS","1,25-Dihydroxy, Vitamin D-2",502629,,pg/mL
+998270,Verbal Order,See below:,978113,,
+998270,Verbal Order,Additional Test(s) Requested,001315,,
+998270,Verbal Order,Verbal Order,977164,,
+480847,"Chromogranin A, Serial Monitor",PDF,511958,,
+140853,Chromog.  A,N,1,,
+480847,"Chromogranin A, Serial Monitor",Chromogranin A,140853,0.0-101.8,ng/mL
+303756,Lipid Panel,LDL Calc Comment:,011923,,
+480095,CEA (Serial Monitor),CEA,002169,0.0-4.7,
+104018,Cortisol - AM,Cortisol - AM,104018,6.2-19.4,ug/dL
+1768,"Immunoglobulins A/G/M, Qn, Ser","Immunoglobulin A, Qn, Serum",001784,87-352,mg/dL
+4309,FSH,FSH,004316,,mIU/mL
+10334,Prostate-speci,N,L,,
+4515,Estradiol,Estradiol,004519,7.6-42.6,pg/mL
+4317,Progesterone,Progesterone,004317,0.0-0.5,ng/mL
+5199,Prothrombin Time (PT),INR,115107,0.9-1.2,
+5199,Prothrombin Time (PT),Prothrombin Time,015289,9.1-12.0,sec
+620,Thyroid Panel With TSH,Thyroxine (T4),001149,4.5-12.0,ug/dL
+620,Thyroid Panel With TSH,Free Thyroxine Index,001164,1.2-4.9,
+620,Thyroid Panel With TSH,T3 Uptake,001156,24-39,%
+1917,"G6PD,Qn,Bld and Red Cell Count",RBC,005033,4.14-5.80,x10E6/uL
+620,Thyroid Panel With TSH,TSH,004264,0.450-4.500,uIU/mL
+2253,"AFP, Serum, Tumor Marker","AFP, Serum, Tumor Marker",002266,0.0-8.4,ng/mL
+1917,"G6PD,Qn,Bld and Red Cell Count","G-6-PD, Quant",001927,156-397,U/10E12 RBC
+322000,Comp. Metabolic Panel (14),Albumin,001081,4.3-5.2,g/dL
+5009,CBC With Differential/Platelet,Please note:,015111,,
+1792,"Immunoglobulin M, Qn, Serum","Immunoglobulin M, Qn, Serum",001792,20-172,mg/dL
+4861,"Viscosity, Serum","Viscosity, Serum",004863,1.4-2.1,rel.saline
+5207,"PTT, Activated",aPTT,015116,24-33,sec
+115188,D-Dimer,D-Dimer,115206,0.00-0.49,mg/L FEU
+182949,"ColoFIT,Occult Blood,Fecal,IA","Occult Blood, Fecal, IA",182950,Negative,
+3772,"Urinalysis, Complete",Microscopic Examination,333336,,
+54601,Ca+PTH Intact,Intact PTH,004000,,
+54601,Ca+PTH Intact,"PTH, Intact",015610,15-65,
+54601,Ca+PTH Intact,Calcium,001016,8.7-10.3,mg/dL
+121210,"PE and FLC, Serum",Gamma Globulin,001492,0.4-1.8,g/dL
+121210,"PE and FLC, Serum","Globulin, Total",011052,2.2-3.9,g/dL
+121210,"PE and FLC, Serum",A/G Ratio,011149,0.7-1.7,
+121210,"PE and FLC, Serum",Alpha-2-Globulin,001490,0.4-1.0,g/dL
+121210,"PE and FLC, Serum",PDF,001498,,
+121210,"PE and FLC, Serum",M-Spike,001493,Not Observed,g/dL
+121210,"PE and FLC, Serum",Alpha-1-Globulin,001489,0.0-0.4,g/dL
+121210,"PE and FLC, Serum",                             .,321488,,
+121210,"PE and FLC, Serum","Protein Electrophoresis,S",321489,,
+121210,"PE and FLC, Serum",Albumin,001488,2.9-4.4,g/dL
+121210,"PE and FLC, Serum","Protein, Total",001073,6.0-8.5,g/dL
+121210,"PE and FLC, Serum","Free Lambda Lt Chains,S",121139,5.7-26.3,mg/L
+121210,"PE and FLC, Serum","Free Kappa Lt Chains,S",121138,3.3-19.4,mg/L
+121210,"PE and FLC, Serum","Kappa/Lambda Ratio,S",121141,0.26-1.65,
+121210,"PE and FLC, Serum",Please note:,011150,,
+121210,"PE and FLC, Serum",Beta Globulin,001491,0.7-1.3,g/dL
+3772,"Urinalysis, Complete",Crystal Type,013152,N/A,
+3772,"Urinalysis, Complete",Crystals,013146,N/A,
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.3-4.8,g/dL
+140311,CA 19-9,N,0,,
+322000,Comp. Metabolic Panel (14),"Bilirubin, Total",001099,0.20-1.10,mg/dL
+322000,Comp. Metabolic Panel (14),Creatinine,001370,0.70-1.30,mg/dL
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,0-40,
+5009,CBC With Differential/Platelet,WBC,005025,3.4-10.8,
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,,
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,,
+5009,CBC With Differential/Platelet,Lymphs,015123,,
+96735,"EBV Ab VCA, IgM","EBV Ab VCA, IgM",096739,0.0-35.9,U/mL
+96230,"EBV Ab VCA, IgG","EBV Ab VCA, IgG",096235,0.0-17.9,U/mL
+5009,CBC With Differential/Platelet,NRBC,015945,,
+550090,"HCV RNA by PCR, Qn Rfx Geno",.,550043,,
+550090,"HCV RNA by PCR, Qn Rfx Geno",Test Information:,550306,,
+5009,CBC With Differential/Platelet,Hemoglobin,005041,,
+5009,CBC With Differential/Platelet,Hematocrit,005058,,
+5009,CBC With Differential/Platelet,MCHC,015081,,
+5009,CBC With Differential/Platelet,RDW,105007,,
+5009,CBC With Differential/Platelet,MCH,015073,,
+5009,CBC With Differential/Platelet,Platelets,015172,,
+5009,CBC With Differential/Platelet,WBC,005025,,
+5009,CBC With Differential/Platelet,RBC,005033,,
+5009,CBC With Differential/Platelet,MCV,015065,,
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,,
+550090,"HCV RNA by PCR, Qn Rfx Geno",Hepatitis C Quantitation,550028,,IU/mL
+550090,"HCV RNA by PCR, Qn Rfx Geno",HCV Genotype,551222,,
+550090,"HCV RNA by PCR, Qn Rfx Geno",HCV log10,550051,,
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,,
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,,
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,,
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,,
+5009,CBC With Differential/Platelet,Basos,015156,,
+5009,CBC With Differential/Platelet,Monocytes,015131,,
+5009,CBC With Differential/Platelet,Neutrophils,015107,,
+5009,CBC With Differential/Platelet,Eos,015149,,
+6627,"C-Reactive Protein, Quant","C-Reactive Protein, Quant",006627,0-10,mg/L
+480061,"CA 125, Serum (Serial)",Cancer Antigen (CA) 125,002321,Not Estab.,U/mL
+1404,Lipase,Lipase,001404,14-72,U/L
+1396,Amylase,Amylase,001396,31-110,U/L
+86207,"C difficile Toxins A+B, EIA","C difficile Toxins A+B, EIA",182238,Negative,
+322000,Comp. Metabolic Panel (14),BUN,001040,13424,mg/dL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.6-4.6,g/dL
+15040,Antithrombin Activity,Antithrombin Activity,015040,75-135,
+117705,Protein C-Functional,Protein C-Functional,117705,73-180,
+164525,Protein S-Functional,Protein S-Functional,164526,63-140,
+100875,Request Problem,Request Problem,100875,,
+1537,Magnesium,Magnesium,001537,1.7-2.4,mg/dL
+322000,Comp. Metabolic Panel (14),Albumin,001081,4.0-5.0,g/dL
+2139,CEA,CEA,002169,0.0-4.7,ng/mL
+28142,"CBC, Platelet, No Differential",MCHC,015081,31.5-35.7,g/dL
+28142,"CBC, Platelet, No Differential",MCH,015073,26.6-33.0,pg
+28142,"CBC, Platelet, No Differential",MCV,015065,79-97,fL
+28142,"CBC, Platelet, No Differential",Hematocrit,005058,34.0-46.6,%
+28142,"CBC, Platelet, No Differential",Hemoglobin,005041,11.1-15.9,g/dL
+28142,"CBC, Platelet, No Differential",WBC,005025,3.4-10.8,x10E3/uL
+28142,"CBC, Platelet, No Differential",RBC,005033,3.77-5.28,x10E6/uL
+28142,"CBC, Platelet, No Differential",Platelets,015172,150-450,x10E3/uL
+28142,"CBC, Platelet, No Differential",RDW,105007,11.7-15.4,%
+5009,CBC With Differential/Platelet,Lymphs,015123,15.0-48.0,%
+5009,CBC With Differential/Platelet,Monocytes,015131,0.0-12.0,%
+5009,CBC With Differential/Platelet,Eos,015149,0.0-7.0,%
+5009,CBC With Differential/Platelet,Basos,015156,0.0-2.0,%
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,1.90-7.40,Thousand/mcL
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,1.00-3.90,Thousand/mcL
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,0.00-0.80,Thousand/mcL
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,0.00-0.50,Thousand/mcL
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,0.00-0.10,Thousand/mcL
+5009,CBC With Differential/Platelet,NRBC,015945,0.0-0.9,/100 WBCs
+5080,"Path Review, Per Protocol",Pathologist,005081,,
+5080,"Path Review, Per Protocol",Comments/Recommendations,005079,,
+5009,CBC With Differential/Platelet,WBC,005025,3.8-11.0,Thousand/mcL
+5009,CBC With Differential/Platelet,RBC,005033,3.70-5.10,Million/mcL
+5009,CBC With Differential/Platelet,Hemoglobin,005041,11.3-15.5,g/dL
+5009,CBC With Differential/Platelet,Hematocrit,005058,34.0-46.0,%
+5009,CBC With Differential/Platelet,MCV,015065,80.0-100.0,fL
+5009,CBC With Differential/Platelet,MCH,015073,27.0-34.0,pg
+5009,CBC With Differential/Platelet,MCHC,015081,32.0-37.0,g/dL
+5009,CBC With Differential/Platelet,RDW,105007,11.0-15.5,%
+5009,CBC With Differential/Platelet,Platelets,015172,150-400,Thousand/mcL
+5009,CBC With Differential/Platelet,Neutrophils,015107,40.0-75.0,%
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,0.0-1.0,%
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,0.00-0.05,Thousand/mcL
+510340,CLL FISH Panel,FISH Result,510689,,
+510340,CLL FISH Panel,Cells Analyzed,510688,,
+510340,CLL FISH Panel,Cells Counted,510687,,
+510340,CLL FISH Panel,Specimen Type,510709,,
+510340,CLL FISH Panel,Interpretation,510337,,
+510340,CLL FISH Panel,Director Review:,510338,,
+1057,Uric Acid,Uric Acid,001057,3.8-8.4,mg/dL
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-40,mm/hr
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-15,mm/hr
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-15,
+180448,"C difficile, Cytotoxin B","C difficile, Cytotoxin B",180448,,
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-40,
+183988,C difficile Toxin Gene NAA,C difficile Toxin Gene NAA,183989,Negative,
+377036,"UA/M w/rflx Culture, Routine",Specific Gravity,013060,1.005-1.030,
+10322,Prostate-Specific Ag,Prostate Specific Ag,010334,0.0-4.0,ng/mL
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e13a2 (b2a2) transcript,481509,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Serial Monitoring,G50002,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e1a2 transcript,481516,,
+480510,BCR-ABL1 kinase domain,Nucleotide Change:,480512,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e14a2 (b3a2) transcript,481510,,
+480510,BCR-ABL1 kinase domain,Predicted Amino Acid Change:,480513,,
+481516,"BCR-ABL1, CML,",N,4,,
+4515,Estradiol,Estradiol,004519,,pg/mL
+4051,Cortisol,Cortisol,004055,6.2-19.4,ug/dL
+4020,DHEA-Sulfate,DHEA-Sulfate,004699,48.9-344.2,ug/dL
+120766,"C-Reactive Protein, Cardiac","C-Reactive Protein, Cardiac",120768,0.00-3.00,mg/L
+512275,DPYD Genotyping,DPYD Information,512278,,
+512275,DPYD Genotyping,Interpretation,512277,,
+512275,DPYD Genotyping,Director Review,512276,,
+512275,DPYD Genotyping,DPYD Metabolic Activity,512274,,
+512275,DPYD Genotyping,DPYD Genotype,512273,,
+182352,Gram Stain w/Sputum Cult Rflx,Epithelial Cells,182357,,
+182352,Gram Stain w/Sputum Cult Rflx,White Blood Cells,182356,,
+182352,Gram Stain w/Sputum Cult Rflx,Result 1,182358,,
+182352,Gram Stain w/Sputum Cult Rflx,Gram Stain Evaluation,182353,,
+182352,Gram Stain w/Sputum Cult Rflx,Result 1,080180,,
+182352,Gram Stain w/Sputum Cult Rflx,Lower Respiratory Culture,180810,,
+2253,"AFP, Serum, Tumor Marker","AFP, Serum, Tumor Marker",002266,0.0-9.2,ng/mL
+164855,Antinuclear Ab by Multiplex,ANA Direct,164862,Negative,
+7054,"Ammonia, Plasma","Ammonia, Plasma",007054,31-169,
+10405,"Myoglobin, Serum","Myoglobin, Serum",010405,25-58,ng/mL
+1362,"Creatine Kinase,Total","Creatine Kinase,Total",001362,32-182,U/L
+480780,PSA Total+% Free (Serial),% Free PSA,480799,,%
+480780,PSA Total+% Free (Serial),"PSA, Free",480782,N/A,ng/mL
+480780,PSA Total+% Free (Serial),Prostate Specific Ag,010334,0.0-4.0,ng/mL
+480780,PSA Total+% Free (Serial),PDF,511958,,
+500600,"1,25-Dihydroxy,Vitamin D by MS","Total 1,25-Dihydroxy,Vitamin D",500601,,
+70104,"Reverse T3, Serum","Reverse T3, Serum",070135,,
+500600,"1,25-Dihydroxy,Vitamin D by MS","1,25-Dihydroxy, Vitamin D-2",502629,,
+500600,"1,25-Dihydroxy,Vitamin D by MS","1,25-Dihydroxy, Vitamin D-3",502630,,
+5009,CBC With Differential/Platelet,NRBC,015945,0-0,%
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,,K/mcL
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,,%
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,0.0-0.1,K/mcL
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,0.0-0.5,K/mcL
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,0.0-0.8,K/mcL
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,1.0-3.9,K/mcL
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,1.9-7.4,K/mcL
+5009,CBC With Differential/Platelet,WBC,005025,3.8-11.0,K/mcL
+5009,CBC With Differential/Platelet,Monocytes,015131,0-12,%
+5009,CBC With Differential/Platelet,Lymphs,015123,15-48,%
+5009,CBC With Differential/Platelet,Platelets,015172,150-400,K/mcL
+5009,CBC With Differential/Platelet,Neutrophils,015107,38-70,%
+5009,CBC With Differential/Platelet,Basos,015156,0-2,%
+5009,CBC With Differential/Platelet,MCV,015065,80-100,fL
+5009,CBC With Differential/Platelet,Hematocrit,005058,34-46,%
+5009,CBC With Differential/Platelet,Eos,015149,0-7,%
+5009,CBC With Differential/Platelet,RBC,005033,3.70-5.10,M/mcL
+5009,CBC With Differential/Platelet,MCHC,015081,32.0-35.5,g/dL
+143404,Cancer Antigen (CA) 15-3,Cancer Antigen 15-3,143413,0.0-25.0,U/mL
+511154,Factor V Leiden Mutation,Factor V Leiden,511155,,
+1917,"G6PD,Qn,Bld and Red Cell Count","G-6-PD, Quant",001927,155-399,U/10E12 RBC
+8847,"Urine Culture, Routine","Urine Culture, Routine",008847,,
+8847,"Urine Culture, Routine",Result 1,997131,,
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,,
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,,IU/L
+322000,Comp. Metabolic Panel (14),Albumin,001081,,g/dL
+322000,Comp. Metabolic Panel (14),Potassium,001180,,mmol/L
+322000,Comp. Metabolic Panel (14),"Protein, Total",001073,,g/dL
+322000,Comp. Metabolic Panel (14),Calcium,001016,,mg/dL
+322000,Comp. Metabolic Panel (14),Alkaline Phosphatase,001107,,IU/L
+322000,Comp. Metabolic Panel (14),Creatinine,001370,,mg/dL
+480061,"CA 125, Serum (Serial)",Cancer Antigen (CA) 125,002321,,U/mL
+4259,TSH,TSH,004264,,uIU/mL
+322000,Comp. Metabolic Panel (14),"Carbon Dioxide, Total",001578,,mmol/L
+322000,Comp. Metabolic Panel (14),BUN,001040,,mg/dL
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,,IU/L
+322000,Comp. Metabolic Panel (14),"Bilirubin, Total",001099,,mg/dL
+322000,Comp. Metabolic Panel (14),eGFR,100779,>59,
+140293,CA 27.29,CA 27.29,142134,0.0-38.6,U/mL
+140659,HCV Antibody,Hep C Virus Ab,140689,Non Reactive,
+6510,HBsAg Screen,HBsAg Screen,006510,Negative,
+6718,"Hep B Core Ab, Tot","Hep B Core Ab, Tot",006718,Negative,
+5009,CBC With Differential/Platelet,MCH,015073,25.7-32.2,pg
+5009,CBC With Differential/Platelet,MCV,015065,79.0-92.2,fL
+5009,CBC With Differential/Platelet,Hematocrit,005058,39.0-50.0,%
+5009,CBC With Differential/Platelet,Hemoglobin,005041,13.7-17.5,g/dL
+5009,CBC With Differential/Platelet,RBC,005033,4.63-6.08,M/uL
+5009,CBC With Differential/Platelet,WBC,005025,4.2-9.1,K/uL
+5009,CBC With Differential/Platelet,NRBC,015945,0,per 100 WBCs
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,0.00-0.05,K/uL
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,0.0-0.7,%
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,0.01-0.08,K/uL
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,0.04-0.54,K/uL
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,0.30-0.82,K/uL
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,1.32-3.57,K/uL
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,1.78-5.38,K/uL
+5009,CBC With Differential/Platelet,Basos,015156,0.2-1.2,%
+5009,CBC With Differential/Platelet,Eos,015149,0.8-7.0,%
+5009,CBC With Differential/Platelet,Monocytes,015131,5.3-12.2,%
+5009,CBC With Differential/Platelet,Lymphs,015123,21.8-53.1,%
+5009,CBC With Differential/Platelet,Neutrophils,015107,34.0-67.9,%
+5009,CBC With Differential/Platelet,Platelets,015172,163-337,K/uL
+5009,CBC With Differential/Platelet,RDW,105007,11.6-14.4,%
+5009,CBC With Differential/Platelet,MCHC,015081,32.3-36.5,g/dL
+5009,CBC With Differential/Platelet,Platelets,015172,150-450,
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-30,mm/hr
+1958,GGT,GGT,001958,0-65,IU/L
+1404,Lipase,Lipase,001404,13-78,U/L
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-30,
+2303,Cancer Antigen (CA) 125,Cancer Antigen (CA) 125,002321,0.0-38.1,U/mL
+2014,"Folate (Folic Acid), Serum",Note:,002021,,
+2014,"Folate (Folic Acid), Serum","Folate (Folic Acid), Serum",002020,>3.0,ng/mL
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-32,mm/hr
+1057,Uric Acid,Uric Acid,001057,2.6-6.2,mg/dL
+6502,Rheumatoid Factor (RF),Rheumatoid Factor (RF),006171,<14.0,IU/mL
+121210,"PE and FLC, Serum","Free Kappa Lt Chains,S",121138,3.3-19.4,
+121210,"PE and FLC, Serum","Free Lambda Lt Chains,S",121139,5.7-26.3,
+1222,"Bilirubin, Direct","Bilirubin, Direct",001222,0.00-0.40,mg/dL
+1917,"G6PD,Qn,Bld and Red Cell Count","G-6-PD, Quant",001927,127-427,
+322000,Comp. Metabolic Panel (14),Alkaline Phosphatase,001107,44-121,
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,0-32,
+140150,Troponin T,Troponin T(Highly Sensitive),140164,0-14,
+8847,"Urine Culture, Routine",Antimicrobial Susceptibility,997135,,
+4226,Testosterone,Testosterone,004227,13-71,ng/dL
+1057,Uric Acid,Uric Acid,001057,3.1-7.9,mg/dL
+322000,Comp. Metabolic Panel (14),Potassium,001180,3.5-5.2,mmol/L
+322000,Comp. Metabolic Panel (14),Sodium,001198,134-144,mmol/L
+322000,Comp. Metabolic Panel (14),eGFR,100779,>59,mL/min/1.73
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,45923,
+322000,Comp. Metabolic Panel (14),BUN,001040,45832,mg/dL
+322000,Comp. Metabolic Panel (14),"Globulin, Total",012039,1.5-4.5,g/dL
+322000,Comp. Metabolic Panel (14),Alkaline Phosphatase,001107,44-121,IU/L
+322000,Comp. Metabolic Panel (14),"Carbon Dioxide, Total",001578,20-29,mmol/L
+322000,Comp. Metabolic Panel (14),Glucose,001032,70-99,mg/dL
+322000,Comp. Metabolic Panel (14),"Protein, Total",001073,6.0-8.5,g/dL
+322000,Comp. Metabolic Panel (14),Chloride,001206,96-106,mmol/L
+322000,Comp. Metabolic Panel (14),Creatinine,001370,0.57-1.00,mg/dL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.9-4.9,g/dL
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,0-32,IU/L
+322000,Comp. Metabolic Panel (14),Calcium,001016,8.7-10.2,mg/dL
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,0-40,IU/L
+322000,Comp. Metabolic Panel (14),"Bilirubin, Total",001099,0.0-1.2,mg/dL
+480293,CA 27.29 (Serial Monitor),PDF,511958,,
+1537,Magnesium,Magnesium,001537,1.6-2.3,mg/dL
+480293,CA 27.29 (Serial Monitor),CA 27.29,142134,0.0-38.6,U/mL
+142134,CA 27.29,N,1,,
+1321,Iron and TIBC,Iron Saturation,011362,15-55,%
+1321,Iron and TIBC,Iron,001339,27-159,ug/dL
+1321,Iron and TIBC,UIBC,001348,131-425,ug/dL
+1321,Iron and TIBC,Iron Bind.Cap.(TIBC),001347,250-450,ug/dL
+322000,Comp. Metabolic Panel (14),Calcium,001016,8.7-10.3,mg/dL
+322000,Comp. Metabolic Panel (14),BUN,001040,45896,mg/dL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.8-4.9,g/dL
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,46019,
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-15,mm/hr
+480053,CA 19-9 (Serial),PDF,511958,,
+480095,CEA (Serial Monitor),CEA,002169,0.0-4.7,ng/mL
+480053,CA 19-9 (Serial),CA 19-9,002282,0-35,U/mL
+322000,Comp. Metabolic Panel (14),Albumin,001081,4.1-5.1,g/dL
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,0-44,IU/L
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,45920,
+322000,Comp. Metabolic Panel (14),Creatinine,001370,0.76-1.27,mg/dL
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-15,
+100552,Request Problem,Request Problem,100552,,
+4259,TSH,TSH,004264,0.450-4.500,uIU/mL
+115188,D-Dimer,D-Dimer,115206,0.00-0.49,mg/L FEU
+998280,No Test Indicated,"Dear Doctor,",998282,,
+998280,No Test Indicated,.,998281,,
+6627,"C-Reactive Protein, Quant","C-Reactive Protein, Quant",006627,0-10,mg/L
+480098,CEA (Roche),N,1,,
+322000,Comp. Metabolic Panel (14),Calcium,001016,8.6-10.2,mg/dL
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,45954,
+480095,CEA (Serial Monitor),PDF,511958,,
+5009,CBC With Differential/Platelet,WBC,005025,3.4-10.8,x10E3/uL
+5009,CBC With Differential/Platelet,RBC,005033,3.77-5.28,x10E6/uL
+5009,CBC With Differential/Platelet,Hemoglobin,005041,11.1-15.9,g/dL
+5009,CBC With Differential/Platelet,Hematocrit,005058,34.0-46.6,%
+5009,CBC With Differential/Platelet,MCV,015065,79-97,fL
+5009,CBC With Differential/Platelet,MCH,015073,26.6-33.0,pg
+5009,CBC With Differential/Platelet,MCHC,015081,31.5-35.7,g/dL
+5009,CBC With Differential/Platelet,RDW,105007,11.7-15.4,%
+5009,CBC With Differential/Platelet,Platelets,015172,150-450,x10E3/uL
+5009,CBC With Differential/Platelet,Neutrophils,015107,Not Estab.,%
+5009,CBC With Differential/Platelet,Lymphs,015123,Not Estab.,%
+5009,CBC With Differential/Platelet,Monocytes,015131,Not Estab.,%
+5009,CBC With Differential/Platelet,Eos,015149,Not Estab.,%
+5009,CBC With Differential/Platelet,Basos,015156,Not Estab.,%
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,1.4-7.0,x10E3/uL
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,0.7-3.1,x10E3/uL
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,0.1-0.9,x10E3/uL
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,0.0-0.4,x10E3/uL
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,0.0-0.2,x10E3/uL
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,Not Estab.,%
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,0.0-0.1,x10E3/uL
+81950,"Vitamin D, 25-Hydroxy","Vitamin D, 25-Hydroxy",081953,30.0-100.0,ng/mL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.8-4.8,g/dL
+480145,PSA (Serial Monitor),Prostate Specific Ag,010334,0.0-4.0,ng/mL
+1024,Phosphorus,Phosphorus,001024,2.8-4.1,mg/dL
+5009,CBC With Differential/Platelet,Hematology Comments:,015180,,
+5009,CBC With Differential/Platelet,Hematocrit,005058,37.5-51.0,%
+5009,CBC With Differential/Platelet,Hemoglobin,005041,13.0-17.7,g/dL
+5009,CBC With Differential/Platelet,RDW,105007,11.6-15.4,%
+5009,CBC With Differential/Platelet,RBC,005033,4.14-5.80,x10E6/uL
+1321,Iron and TIBC,UIBC,001348,111-343,ug/dL
+1321,Iron and TIBC,Iron,001339,38-169,ug/dL
+1321,Iron and TIBC,UIBC,001348,118-369,ug/dL
+1321,Iron and TIBC,Iron,001339,27-139,ug/dL
+480060,Cancer Antigen,N,1,,
+1974,"Thyroxine (T4) Free, Direct","T4,Free(Direct)",019745,0.82-1.77,ng/dL
+10389,"Triiodothyronine (T3), Free","Triiodothyronine (T3), Free",010389,2.0-4.4,pg/mL
+1156,T3 Uptake,T3 Uptake,001156,24-39,%
+480061,"CA 125, Serum (Serial)",PDF,511958,,
+480061,"CA 125, Serum (Serial)",Cancer Antigen (CA) 125,002321,0.0-38.1,U/mL
+143413,CA 15-3,N,1,,
+483404,CA 15-3 (Serial Monitor),Cancer Antigen 15-3,143413,0.0-25.0,U/mL
+322000,Comp. Metabolic Panel (14),Potassium,001180,3.5-5.2,
+8300,"Blood Culture, Routine","Blood Culture, Routine",008300,,
+8300,"Blood Culture, Routine",Result 1,997181,,
+4598,Ferritin,Ferritin,004598,15-150,ng/mL
+1453,Hemoglobin A1c,Please Note:,001482,,
+1453,Hemoglobin A1c,Hemoglobin A1c,001481,4.8-5.6,%
+1776,"Immunoglobulin G, Qn, Serum","Immunoglobulin G, Qn, Serum",001776,586-1602,mg/dL
+1115,LDH,LDH,001115,119-226,IU/L
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-40,mm/hr
+1768,"Immunoglobulins A/G/M, Qn, Ser","Immunoglobulin G, Qn, Serum",001776,586-1602,mg/dL
+180448,"C difficile, Cytotoxin B","C difficile, Cytotoxin B",180448,,
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-40,
+998270,Verbal Order,See below:,978113,,
+998270,Verbal Order,Additional Test(s) Requested,001315,,
+998270,Verbal Order,Verbal Order,977164,,
+977740,One Specimen Identifier,One Specimen Identifier,977740,,
+1768,"Immunoglobulins A/G/M, Qn, Ser","Immunoglobulin A, Qn, Serum",001784,87-352,mg/dL
+1768,"Immunoglobulins A/G/M, Qn, Ser","Immunoglobulin M, Qn, Serum",001792,26-217,mg/dL
+706994,Homocyst(e)ine,Homocyst(e)ine,707009,0.0-14.5,umol/L
+183988,C difficile Toxin Gene NAA,C difficile Toxin Gene NAA,183989,Negative,
+977900,Written Authorization,Written Authorization,977900,,
+810,Vitamin B12 and Folate,Note:,002021,,
+810,Vitamin B12 and Folate,Vitamin B12,001503,232-1245,pg/mL
+810,Vitamin B12 and Folate,"Folate (Folic Acid), Serum",002020,>3.0,ng/mL
+3772,"Urinalysis, Complete",Occult Blood,013102,Negative,
+3772,"Urinalysis, Complete","Urobilinogen,Semi-Qn",013105,0.2-1.0,mg/dL
+3772,"Urinalysis, Complete",Specific Gravity,013060,1.005-1.030,
+3772,"Urinalysis, Complete",Microscopic Examination,012237,,
+3772,"Urinalysis, Complete",Ketones,013110,Negative,
+3772,"Urinalysis, Complete",Glucose,013086,Negative,
+3772,"Urinalysis, Complete",Protein,013094,Negative/Trace,
+3772,"Urinalysis, Complete",WBC Esterase,013185,Negative,
+3772,"Urinalysis, Complete",Appearance,013052,Clear,
+322000,Comp. Metabolic Panel (14),BUN,001040,45894,mg/dL
+322000,Comp. Metabolic Panel (14),Creatinine,001370,0.70-1.30,mg/dL
+322000,Comp. Metabolic Panel (14),eGFR,100779,>60,
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,10.0-24.0,ratio
+322000,Comp. Metabolic Panel (14),Sodium,001198,135-145,mmol/L
+322000,Comp. Metabolic Panel (14),Potassium,001180,3.5-5.0,mmol/L
+322000,Comp. Metabolic Panel (14),Chloride,001206,99-109,mmol/L
+322000,Comp. Metabolic Panel (14),"Carbon Dioxide, Total",001578,23-33,mmol/L
+322000,Comp. Metabolic Panel (14),Calcium,001016,8.7-10.4,mg/dL
+322000,Comp. Metabolic Panel (14),"Protein, Total",001073,6.2-8.2,g/dL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.3-4.8,g/dL
+322000,Comp. Metabolic Panel (14),"Globulin, Total",012039,2.2-4.2,g/dL
+322000,Comp. Metabolic Panel (14),A/G Ratio,012047,1.0-1.9,ratio
+322000,Comp. Metabolic Panel (14),"Bilirubin, Total",001099,0.20-1.10,mg/dL
+322000,Comp. Metabolic Panel (14),Alkaline Phosphatase,001107,46-116,U/L
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,24016,U/L
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,16711,U/L
+3772,"Urinalysis, Complete",pH,013078,5.0-7.5,
+3772,"Urinalysis, Complete","Nitrite, Urine",013106,Negative,
+3772,"Urinalysis, Complete",Bilirubin,013104,Negative,
+3772,"Urinalysis, Complete",Urinalysis Gross Exam,133330,,
+3772,"Urinalysis, Complete",Urine-Color,013045,Yellow,
+3772,"Urinalysis, Complete",Bacteria,333344,None seen/Few,
+3772,"Urinalysis, Complete",Casts,013145,None seen,/lpf
+3772,"Urinalysis, Complete",Epithelial Cells (non renal),013148,0 - 10,/hpf
+3772,"Urinalysis, Complete",RBC,013136,0 -  2,/hpf
+3772,"Urinalysis, Complete",WBC,013128,0 -  5,/hpf
+1917,"G6PD,Qn,Bld and Red Cell Count","G-6-PD, Quant",001927,127-427,U/10E12 RBC
+1917,"G6PD,Qn,Bld and Red Cell Count",Comment:,001929,,
+10334,Prostate-speci,N,1,,
+480145,PSA (Serial Monitor),PDF,511958,,
+4226,Testosterone,Testosterone,004227,264-916,ng/dL
+322000,Comp. Metabolic Panel (14),Glucose,001032,70-99,
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.7-4.7,g/dL
+322000,Comp. Metabolic Panel (14),BUN,001040,45828,mg/dL
+1776,"Immunoglobulin G, Qn, Serum","Immunoglobulin G, Qn, Serum",001776,603-1613,mg/dL
+1057,Uric Acid,Uric Acid,001057,3.8-8.4,mg/dL
+104018,Cortisol - AM,Cortisol - AM,104018,6.2-19.4,ug/dL
+977206,Ambig Abbrev CMP14 Default,Ambig Abbrev CMP14 Default,977206,,
+199999,Please note,Please note,199999,,
+377036,"UA/M w/rflx Culture, Routine",Specific Gravity,013060,1.005-1.030,
+3772,"Urinalysis, Complete",Microscopic Examination,333336,,
+4309,FSH,FSH,004316,,mIU/mL
+480260,Flow panel: Leukemia/Lymphoma,Specimen Type,490027,,
+480260,Flow panel: Leukemia/Lymphoma,Comment:,490046,,
+480260,Flow panel: Leukemia/Lymphoma,Flow Interpretation,490024,,
+480260,Flow panel: Leukemia/Lymphoma,Flow Comment,490025,,
+480260,Flow panel: Leukemia/Lymphoma,Resulting Path Name,490039,,
+480260,Flow panel: Leukemia/Lymphoma,Indications for Study,490042,,
+483404,CA 15-3 (Serial Monitor),PDF,511958,,
+1917,"G6PD,Qn,Bld and Red Cell Count",RBC,005033,3.77-5.28,x10E6/uL
+4598,Ferritin,Ferritin,004598,30-400,ng/mL
+303756,Lipid Panel,"Cholesterol, Total",001065,100-199,mg/dL
+303756,Lipid Panel,Triglycerides,001172,0-149,mg/dL
+303756,Lipid Panel,HDL Cholesterol,011817,>39,mg/dL
+303756,Lipid Panel,VLDL Cholesterol Cal,011919,14732,mg/dL
+303756,Lipid Panel,LDL Chol Calc (NIH),012059,0-99,mg/dL
+5199,Prothrombin Time (PT),Prothrombin Time,015289,9.1-12.0,sec
+5207,"PTT, Activated",aPTT,015116,24-33,sec
+5199,Prothrombin Time (PT),INR,115107,0.9-1.2,
+10322,Prostate-Specific Ag,Prostate Specific Ag,010334,0.0-4.0,ng/mL
+140311,CA 19-9,N,0,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e14a2 (b3a2) transcript,481510,,%
+480510,BCR-ABL1 kinase domain,Interpretation:,480843,,
+480510,BCR-ABL1 kinase domain,Result:,480511,,
+480510,BCR-ABL1 kinase domain,Director Review:,480515,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e13a2 (b2a2) transcript,481509,,%
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e1a2 transcript,481516,,%
+81950,"Vitamin D, 25-Hydroxy","Vitamin D, 25-Hydroxy",081953,30.0-100.0,
+480145,PSA (Serial Monitor),Prostate Specific Ag,010334,0.0-4.0,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",References,484516,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Methodology,481508,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Background,481507,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Director Review,489031,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Interpretation:,480488,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",PDF,511958,,
+480510,BCR-ABL1 kinase domain,Disclaimer:,481526,,
+480510,BCR-ABL1 kinase domain,Methodology:,480844,,
+481516,"BCR-ABL1, CML,",N,L,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e13a2 (b2a2) transcript,481509,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",Serial Monitoring,G50002,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e1a2 transcript,481516,,
+480510,BCR-ABL1 kinase domain,Nucleotide Change:,480512,,
+480481,"BCR-ABL1, CML/ALL, PCR, Quant",e14a2 (b3a2) transcript,481510,,
+480510,BCR-ABL1 kinase domain,Predicted Amino Acid Change:,480513,,
+481516,"BCR-ABL1, CML,",N,4,,
+5009,CBC With Differential/Platelet,Please note:,015111,,
+4259,TSH,TSH,004264,0.450-4.500,
+117006,"VEGF, Plasma","VEGF, Plasma",117057,0-115,
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,0-35,IU/L
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,15-59,IU/L
+4515,Estradiol,Estradiol,004519,,pg/mL
+1024,Phosphorus,Phosphorus,001024,3.0-4.3,mg/dL
+1057,Uric Acid,Uric Acid,001057,3.0-7.2,mg/dL
+5009,CBC With Differential/Platelet,NRBC,015945,0 - 0,%
+5009,CBC With Differential/Platelet,NRBC,015945,0.0-0.9,/100 WBCs
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,0.00-0.05,Thousand/mcL
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,0.0-1.0,%
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,0.00-0.10,Thousand/mcL
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,0.00-0.50,Thousand/mcL
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,0.00-0.80,Thousand/mcL
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,1.00-3.90,Thousand/mcL
+5009,CBC With Differential/Platelet,Eos,015149,0.0-7.0,%
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,1.90-7.40,Thousand/mcL
+5009,CBC With Differential/Platelet,Basos,015156,0.0-2.0,%
+5009,CBC With Differential/Platelet,MCHC,015081,32.0-37.0,g/dL
+5009,CBC With Differential/Platelet,MCH,015073,27.0-34.0,pg
+5009,CBC With Differential/Platelet,MCV,015065,80.0-100.0,fL
+5009,CBC With Differential/Platelet,Hematocrit,005058,34.0-46.0,%
+5009,CBC With Differential/Platelet,Hemoglobin,005041,11.3-15.5,g/dL
+5009,CBC With Differential/Platelet,RBC,005033,3.70-5.10,Million/mcL
+5009,CBC With Differential/Platelet,WBC,005025,3.8-11.0,Thousand/mcL
+5009,CBC With Differential/Platelet,RDW,105007,11.0-15.5,%
+5009,CBC With Differential/Platelet,Platelets,015172,150-400,Thousand/mcL
+5009,CBC With Differential/Platelet,Neutrophils,015107,40.0-75.0,%
+5009,CBC With Differential/Platelet,Lymphs,015123,15.0-48.0,%
+5009,CBC With Differential/Platelet,Monocytes,015131,0.0-12.0,%
+121210,"PE and FLC, Serum","Free Kappa Lt Chains,S",121138,3.3-19.4,mg/L
+121210,"PE and FLC, Serum","Free Lambda Lt Chains,S",121139,5.7-26.3,mg/L
+121210,"PE and FLC, Serum","Kappa/Lambda Ratio,S",121141,0.26-1.65,
+121210,"PE and FLC, Serum",Albumin,001488,2.9-4.4,g/dL
+121210,"PE and FLC, Serum",Alpha-1-Globulin,001489,0.0-0.4,g/dL
+121210,"PE and FLC, Serum",A/G Ratio,011149,0.7-1.7,
+121210,"PE and FLC, Serum","Globulin, Total",011052,2.2-3.9,g/dL
+121210,"PE and FLC, Serum",Gamma Globulin,001492,0.4-1.8,g/dL
+121210,"PE and FLC, Serum",Beta Globulin,001491,0.7-1.3,g/dL
+121210,"PE and FLC, Serum",Alpha-2-Globulin,001490,0.4-1.0,g/dL
+121210,"PE and FLC, Serum",                             .,321488,,
+121210,"PE and FLC, Serum","Protein Electrophoresis,S",321489,,
+121210,"PE and FLC, Serum",Please note:,011150,,
+121210,"PE and FLC, Serum",PDF,001498,,
+121210,"PE and FLC, Serum",M-Spike,001493,Not Observed,g/dL
+121210,"PE and FLC, Serum","Protein, Total",001073,6.0-8.5,g/dL
+4051,Cortisol,Cortisol,004055,6.2-19.4,ug/dL
+4020,DHEA-Sulfate,DHEA-Sulfate,004699,48.9-344.2,ug/dL
+120766,"C-Reactive Protein, Cardiac","C-Reactive Protein, Cardiac",120768,0.00-3.00,mg/L
+512275,DPYD Genotyping,DPYD Information,512278,,
+512275,DPYD Genotyping,Interpretation,512277,,
+512275,DPYD Genotyping,Director Review,512276,,
+512275,DPYD Genotyping,DPYD Metabolic Activity,512274,,
+512275,DPYD Genotyping,DPYD Genotype,512273,,
+182352,Gram Stain w/Sputum Cult Rflx,Epithelial Cells,182357,,
+182352,Gram Stain w/Sputum Cult Rflx,White Blood Cells,182356,,
+182352,Gram Stain w/Sputum Cult Rflx,Result 1,182358,,
+182352,Gram Stain w/Sputum Cult Rflx,Gram Stain Evaluation,182353,,
+182352,Gram Stain w/Sputum Cult Rflx,Result 1,080180,,
+182352,Gram Stain w/Sputum Cult Rflx,Lower Respiratory Culture,180810,,
+511200,UGT1A1 Irinotecan Toxicity,Disclaimer,512030,,
+511200,UGT1A1 Irinotecan Toxicity,Additional Information:,511224,,
+511200,UGT1A1 Irinotecan Toxicity,Director Review:,511208,,
+511200,UGT1A1 Irinotecan Toxicity,Result:,511202,,
+86207,"C difficile Toxins A+B, EIA","C difficile Toxins A+B, EIA",182238,Negative,
+2253,"AFP, Serum, Tumor Marker","AFP, Serum, Tumor Marker",002266,0.0-9.2,ng/mL
+164855,Antinuclear Ab by Multiplex,ANA Direct,164862,Negative,
+7054,"Ammonia, Plasma","Ammonia, Plasma",007054,31-169,
+10405,"Myoglobin, Serum","Myoglobin, Serum",010405,25-58,ng/mL
+1362,"Creatine Kinase,Total","Creatine Kinase,Total",001362,32-182,U/L
+480780,PSA Total+% Free (Serial),% Free PSA,480799,,%
+480780,PSA Total+% Free (Serial),"PSA, Free",480782,N/A,ng/mL
+480780,PSA Total+% Free (Serial),Prostate Specific Ag,010334,0.0-4.0,ng/mL
+480780,PSA Total+% Free (Serial),PDF,511958,,
+121137,"Free K+L Lt Chains,Qn,S","Kappa/Lambda Ratio,S",121141,0.26-1.65,
+121137,"Free K+L Lt Chains,Qn,S","Free Lambda Lt Chains,S",121139,5.7-26.3,mg/L
+121137,"Free K+L Lt Chains,Qn,S","Free Kappa Lt Chains,S",121138,3.3-19.4,mg/L
+1784,"Immunoglobulin A, Qn, Serum","Immunoglobulin A, Qn, Serum",001784,61-437,mg/dL
+1768,"Immunoglobulins A/G/M, Qn, Ser","Immunoglobulin A, Qn, Serum",001784,64-422,mg/dL
+500600,"1,25-Dihydroxy,Vitamin D by MS","Total 1,25-Dihydroxy,Vitamin D",500601,,
+70104,"Reverse T3, Serum","Reverse T3, Serum",070135,,
+500600,"1,25-Dihydroxy,Vitamin D by MS","1,25-Dihydroxy, Vitamin D-2",502629,,
+500600,"1,25-Dihydroxy,Vitamin D by MS","1,25-Dihydroxy, Vitamin D-3",502630,,
+140853,Chromog.  A,N,1,,
+480847,"Chromogranin A, Serial Monitor",PDF,511958,,
+480847,"Chromogranin A, Serial Monitor",Chromogranin A,140853,0.0-101.8,ng/mL
+5009,CBC With Differential/Platelet,NRBC,015945,0-0,%
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,,K/mcL
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,,%
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,0.0-0.1,K/mcL
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,0.0-0.5,K/mcL
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,0.0-0.8,K/mcL
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,1.0-3.9,K/mcL
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,1.9-7.4,K/mcL
+5009,CBC With Differential/Platelet,WBC,005025,3.8-11.0,K/mcL
+5009,CBC With Differential/Platelet,Monocytes,015131,0-12,%
+5009,CBC With Differential/Platelet,Lymphs,015123,15-48,%
+5009,CBC With Differential/Platelet,Platelets,015172,150-400,K/mcL
+5009,CBC With Differential/Platelet,Neutrophils,015107,38-70,%
+5009,CBC With Differential/Platelet,Basos,015156,0-2,%
+5009,CBC With Differential/Platelet,MCV,015065,80-100,fL
+5009,CBC With Differential/Platelet,Hematocrit,005058,34-46,%
+5009,CBC With Differential/Platelet,Eos,015149,0-7,%
+5009,CBC With Differential/Platelet,RBC,005033,3.70-5.10,M/mcL
+5009,CBC With Differential/Platelet,MCHC,015081,32.0-35.5,g/dL
+303756,Lipid Panel,LDL Calc Comment:,011923,,
+143404,Cancer Antigen (CA) 15-3,Cancer Antigen 15-3,143413,0.0-25.0,U/mL
+511154,Factor V Leiden Mutation,Factor V Leiden,511155,,
+3772,"Urinalysis, Complete",Crystal Type,013152,N/A,
+3772,"Urinalysis, Complete",Crystals,013146,N/A,
+10334,Prostate-speci,N,L,,
+1917,"G6PD,Qn,Bld and Red Cell Count","G-6-PD, Quant",001927,155-399,U/10E12 RBC
+2253,"AFP, Serum, Tumor Marker","AFP, Serum, Tumor Marker",002266,0.0-8.4,ng/mL
+620,Thyroid Panel With TSH,Thyroxine (T4),001149,4.5-12.0,ug/dL
+620,Thyroid Panel With TSH,TSH,004264,0.450-4.500,uIU/mL
+620,Thyroid Panel With TSH,Free Thyroxine Index,001164,1.2-4.9,
+620,Thyroid Panel With TSH,T3 Uptake,001156,24-39,%
+1917,"G6PD,Qn,Bld and Red Cell Count",RBC,005033,4.14-5.80,x10E6/uL
+8847,"Urine Culture, Routine","Urine Culture, Routine",008847,,
+8847,"Urine Culture, Routine",Result 1,997131,,
+322000,Comp. Metabolic Panel (14),BUN/Creatinine Ratio,011577,,
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,,IU/L
+322000,Comp. Metabolic Panel (14),Albumin,001081,,g/dL
+322000,Comp. Metabolic Panel (14),Potassium,001180,,mmol/L
+322000,Comp. Metabolic Panel (14),"Protein, Total",001073,,g/dL
+322000,Comp. Metabolic Panel (14),Calcium,001016,,mg/dL
+322000,Comp. Metabolic Panel (14),Alkaline Phosphatase,001107,,IU/L
+322000,Comp. Metabolic Panel (14),Creatinine,001370,,mg/dL
+480061,"CA 125, Serum (Serial)",Cancer Antigen (CA) 125,002321,,U/mL
+4259,TSH,TSH,004264,,uIU/mL
+322000,Comp. Metabolic Panel (14),"Carbon Dioxide, Total",001578,,mmol/L
+322000,Comp. Metabolic Panel (14),BUN,001040,,mg/dL
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,,IU/L
+322000,Comp. Metabolic Panel (14),"Bilirubin, Total",001099,,mg/dL
+322000,Comp. Metabolic Panel (14),eGFR,100779,>59,
+140293,CA 27.29,CA 27.29,142134,0.0-38.6,U/mL
+1792,"Immunoglobulin M, Qn, Serum","Immunoglobulin M, Qn, Serum",001792,20-172,mg/dL
+4861,"Viscosity, Serum","Viscosity, Serum",004863,1.4-2.1,rel.saline
+100875,Request Problem,Request Problem,100875,,
+322000,Comp. Metabolic Panel (14),AST (SGOT),001123,0-40,
+140659,HCV Antibody,Hep C Virus Ab,140689,Non Reactive,
+6510,HBsAg Screen,HBsAg Screen,006510,Negative,
+6718,"Hep B Core Ab, Tot","Hep B Core Ab, Tot",006718,Negative,
+5009,CBC With Differential/Platelet,WBC,005025,3.4-10.8,
+5009,CBC With Differential/Platelet,MCH,015073,25.7-32.2,pg
+5009,CBC With Differential/Platelet,MCV,015065,79.0-92.2,fL
+5009,CBC With Differential/Platelet,Hematocrit,005058,39.0-50.0,%
+5009,CBC With Differential/Platelet,Hemoglobin,005041,13.7-17.5,g/dL
+5009,CBC With Differential/Platelet,RBC,005033,4.63-6.08,M/uL
+5009,CBC With Differential/Platelet,WBC,005025,4.2-9.1,K/uL
+5009,CBC With Differential/Platelet,NRBC,015945,0,per 100 WBCs
+5009,CBC With Differential/Platelet,Immature Grans (Abs),015911,0.00-0.05,K/uL
+5009,CBC With Differential/Platelet,Immature Granulocytes,015108,0.0-0.7,%
+5009,CBC With Differential/Platelet,Baso (Absolute),015941,0.01-0.08,K/uL
+5009,CBC With Differential/Platelet,Eos (Absolute),015933,0.04-0.54,K/uL
+5009,CBC With Differential/Platelet,Monocytes(Absolute),015925,0.30-0.82,K/uL
+5009,CBC With Differential/Platelet,Lymphs (Absolute),015917,1.32-3.57,K/uL
+5009,CBC With Differential/Platelet,Neutrophils (Absolute),015909,1.78-5.38,K/uL
+5009,CBC With Differential/Platelet,Basos,015156,0.2-1.2,%
+5009,CBC With Differential/Platelet,Eos,015149,0.8-7.0,%
+5009,CBC With Differential/Platelet,Monocytes,015131,5.3-12.2,%
+5009,CBC With Differential/Platelet,Lymphs,015123,21.8-53.1,%
+5009,CBC With Differential/Platelet,Neutrophils,015107,34.0-67.9,%
+5009,CBC With Differential/Platelet,Platelets,015172,163-337,K/uL
+5009,CBC With Differential/Platelet,RDW,105007,11.6-14.4,%
+5009,CBC With Differential/Platelet,MCHC,015081,32.3-36.5,g/dL
+5009,CBC With Differential/Platelet,Platelets,015172,150-450,
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-30,mm/hr
+1115,LDH,LDH,001115,121-224,IU/L
+1958,GGT,GGT,001958,0-65,IU/L
+1396,Amylase,Amylase,001396,31-110,U/L
+1404,Lipase,Lipase,001404,13-78,U/L
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-30,
+2303,Cancer Antigen (CA) 125,Cancer Antigen (CA) 125,002321,0.0-38.1,U/mL
+2014,"Folate (Folic Acid), Serum",Note:,002021,,
+2014,"Folate (Folic Acid), Serum","Folate (Folic Acid), Serum",002020,>3.0,ng/mL
+5215,Sedimentation Rate-Westergren,Sedimentation Rate-Westergren,005215,0-32,mm/hr
+1057,Uric Acid,Uric Acid,001057,2.6-6.2,mg/dL
+6502,Rheumatoid Factor (RF),Rheumatoid Factor (RF),006171,<14.0,IU/mL
+121210,"PE and FLC, Serum","Free Kappa Lt Chains,S",121138,3.3-19.4,
+121210,"PE and FLC, Serum","Free Lambda Lt Chains,S",121139,5.7-26.3,
+1222,"Bilirubin, Direct","Bilirubin, Direct",001222,0.00-0.40,mg/dL
+1917,"G6PD,Qn,Bld and Red Cell Count","G-6-PD, Quant",001927,127-427,
+322000,Comp. Metabolic Panel (14),Alkaline Phosphatase,001107,44-121,
+322000,Comp. Metabolic Panel (14),ALT (SGPT),001545,0-32,
+322000,Comp. Metabolic Panel (14),Creatinine,001370,0.50-1.00,mg/dL
+480061,"CA 125, Serum (Serial)",Cancer Antigen (CA) 125,002321,Not Estab.,U/mL
+5080,"Path Review, Per Protocol",Pathologist,005081,,
+5009,CBC With Differential/Platelet, Myelocytes,115403,0 - 0,%
+5009,CBC With Differential/Platelet, Metamyelocytes,115401,0 - 0,%
+5080,"Path Review, Per Protocol",Comments/Recommendations,005079,,
+5009,CBC With Differential/Platelet,Immature Cells,115398,,
+322000,Comp. Metabolic Panel (14),BUN,001040,13424,mg/dL
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.6-4.6,g/dL
+140150,Troponin T,Troponin T(Highly Sensitive),140164,0-14,
+164525,Protein S-Functional,Protein S-Functional,164526,63-140,
+15040,Antithrombin Activity,Antithrombin Activity,015040,75-135,
+117705,Protein C-Functional,Protein C-Functional,117705,73-180,
+54601,Ca+PTH Intact,Intact PTH,004000,,
+54601,Ca+PTH Intact,"PTH, Intact",015610,15-65,
+8847,"Urine Culture, Routine",Antimicrobial Susceptibility,997135,,
+322000,Comp. Metabolic Panel (14),Albumin,001081,3.5-5.0,g/dL
+1537,Magnesium,Magnesium,001537,1.7-2.4,mg/dL
+322000,Comp. Metabolic Panel (14),"Bilirubin, Total",001099,0.10-1.50,mg/dL
+322000,Comp. Metabolic Panel (14),Albumin,001081,4.0-5.0,g/dL
+4226,Testosterone,Testosterone,004227,13-71,ng/dL
+28142,"CBC, Platelet, No Differential",Hemoglobin,005041,11.1-15.9,g/dL
+28142,"CBC, Platelet, No Differential",RBC,005033,3.77-5.28,x10E6/uL
+28142,"CBC, Platelet, No Differential",WBC,005025,3.4-10.8,x10E3/uL
+2139,CEA,CEA,002169,0.0-4.7,ng/mL
+28142,"CBC, Platelet, No Differential",Platelets,015172,150-450,x10E3/uL
+28142,"CBC, Platelet, No Differential",RDW,105007,11.7-15.4,%
+28142,"CBC, Platelet, No Differential",MCHC,015081,31.5-35.7,g/dL
+28142,"CBC, Platelet, No Differential",MCH,015073,26.6-33.0,pg
+28142,"CBC, Platelet, No Differential",MCV,015065,79-97,fL
+28142,"CBC, Platelet, No Differential",Hematocrit,005058,34.0-46.6,%
+1057,Uric Acid,Uric Acid,001057,3.1-7.9,mg/dL

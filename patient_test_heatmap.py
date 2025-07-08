@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 
-def create_patient_test_heatmap(df, num_patients=10, threshold=None):
+def create_patient_test_heatmap(df, patient_ids, threshold=None):
     """
     Create a heatmap with patients on Y-axis and tests on X-axis
     
@@ -17,8 +17,8 @@ def create_patient_test_heatmap(df, num_patients=10, threshold=None):
     -----------
     df : pandas DataFrame
         The full dataframe containing lab results
-    num_patients : int, optional
-        Number of patients to include, default 10
+    patient_ids : list
+        A list of patient IDs to include in the heatmap
     threshold : float, optional
         Abnormal threshold percentage to filter tests, default None (no filter)
     
@@ -26,89 +26,61 @@ def create_patient_test_heatmap(df, num_patients=10, threshold=None):
     --------
     fig : matplotlib Figure
         The heatmap figure
+    heatmap_data : pandas DataFrame
+        The data used to generate the heatmap
     """
-    # Get unique patients and tests, filtering out NA values
-    patients = [p for p in df['Patient ID'].unique().tolist() if pd.notna(p)]
-    tests = [t for t in df['Test Name'].unique().tolist() if pd.notna(t)]
+    # Filter the dataframe to only include the selected patients
+    df_filtered = df[df['Patient ID'].isin(patient_ids)]
     
-    # Default to showing all patients if there are fewer than the limit
-    if len(patients) <= num_patients:
-        selected_patients = patients
-    else:
-        # Otherwise select the first num_patients
-        selected_patients = patients[:num_patients]
+    # Get unique tests from the filtered data
+    tests = [t for t in df_filtered['Test Name'].unique().tolist() if pd.notna(t)]
+    
+    # Use the provided patient_ids for the heatmap index
+    selected_patients = patient_ids
     
     # Create a pivot table: rows=patients, columns=tests, values=% abnormal
     heatmap_data = pd.DataFrame(index=selected_patients, columns=tests)
     
     # For each patient and test combination, calculate percentage of abnormal results
     for patient_id in selected_patients:
-        # Skip NA patient IDs
-        if pd.isna(patient_id):
-            continue
-            
-        patient_df = df[df['Patient ID'] == patient_id]
+        patient_df = df_filtered[df_filtered['Patient ID'] == patient_id]
         
         for test in tests:
-            # Skip NA test names
-            if pd.isna(test):
-                continue
-                
             test_results = patient_df[patient_df['Test Name'] == test]
             if len(test_results) > 0:
-                # Calculate mean of abnormal flags, safely handling NA values
                 abnormal_flags = test_results['Abnormal Flag'].dropna()
                 if len(abnormal_flags) > 0:
                     abnormal_pct = abnormal_flags.mean() * 100
                     heatmap_data.loc[patient_id, test] = abnormal_pct
     
     # Fill NAs with 0 (meaning no abnormal results)
-    heatmap_data = heatmap_data.fillna(0)
-    # Ensure all values are numeric floats for plotting
-    heatmap_data = heatmap_data.astype(float)
-      # Filter tests if threshold is provided
+    heatmap_data = heatmap_data.fillna(0).astype(float)
+    
+    # Filter tests if a threshold is provided
     if threshold is not None:
-        # Find tests that have at least one patient with abnormal percentage >= threshold
-        tests_to_keep = []
-        for test in tests:
-            # Skip tests that might have been filtered out
-            if test not in heatmap_data.columns:
-                continue
-                
-            if (heatmap_data[test] >= threshold).any():
-                tests_to_keep.append(test)
+        tests_to_keep = [test for test in tests if (heatmap_data[test] >= threshold).any()]
         
-        # Filter to only keep tests meeting the threshold
         if tests_to_keep:
             heatmap_data = heatmap_data[tests_to_keep]
         else:
-            # If no tests meet the threshold, add a note column
-            heatmap_data = pd.DataFrame(index=selected_patients, columns=['No tests meet threshold'])
-            heatmap_data.iloc[:, 0] = 0  # Fill with zeros
-      # Create heatmap
-    fig, ax = plt.subplots(figsize=(12, max(6, len(selected_patients) * 0.4)))
+            heatmap_data = pd.DataFrame(index=selected_patients, columns=['No tests meet threshold']).fillna(0)
+            
+    # Create heatmap, allocating more space per patient and reducing font size
+    fig, ax = plt.subplots(figsize=(12, max(6, len(selected_patients) * 0.6)))
     
-    # Use a sequential colormap - white to red for abnormal percentages
-    cmap = plt.cm.Reds
-    
-    # Check if we have data to plot
     if heatmap_data.empty or heatmap_data.columns.empty:
-        # Create an empty plot with a message
-        ax.text(0.5, 0.5, "No data available with current settings", 
-                horizontalalignment='center', verticalalignment='center',
-                transform=ax.transAxes, fontsize=14)
+        ax.text(0.5, 0.5, "No data available for the selected patients.", 
+                ha='center', va='center', transform=ax.transAxes, fontsize=14)
         ax.axis('off')
     else:
-        # Plot heatmap
-        sns.heatmap(heatmap_data, cmap=cmap, 
-                   vmin=0, vmax=100, 
-                   linewidths=0.5, ax=ax,
-                   cbar_kws={'label': 'Percentage of Abnormal Results'})
+        sns.heatmap(heatmap_data, cmap=plt.cm.Reds, vmin=0, vmax=100, 
+                   linewidths=0.5, ax=ax, cbar_kws={'label': 'Percentage of Abnormal Results'})
         
         ax.set_title("Abnormal Results by Patient and Test")
         ax.set_xlabel("Test Name")
         ax.set_ylabel("Patient ID")
         plt.xticks(rotation=45, ha='right')
+        ax.tick_params(axis='y', labelsize=8)  # Adjust y-axis font size
     
     plt.tight_layout()
     
