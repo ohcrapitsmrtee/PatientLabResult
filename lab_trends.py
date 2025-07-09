@@ -276,6 +276,8 @@ def plot_trends(df, patient_id, drift_threshold=0.5):
         st.subheader("⚠️ Analytes with Persistent Drift")
         for test_name, analyte, grp in drift_analytes:
             grp = grp.sort_values('Collection Date')  # Sort by date before plotting
+            # Remove duplicates by keeping the first occurrence for each date
+            grp = grp.drop_duplicates(subset=['Collection Date'], keep='first')
             fig, ax = plt.subplots(figsize=(10, 4))
             
             dates = grp['Collection Date']
@@ -339,6 +341,8 @@ def plot_trends(df, patient_id, drift_threshold=0.5):
                     ax = axes[i]
                     
                     grp = grp.sort_values('Collection Date')  # Sort by date before plotting
+                    # Remove duplicates by keeping the first occurrence for each date
+                    grp = grp.drop_duplicates(subset=['Collection Date'], keep='first')
                     dates = grp['Collection Date']
                     results = grp['Result']
                     
@@ -432,6 +436,9 @@ def create_heatmap(df):
     # Create a z-score for each analyte result
     for analyte in analytes:
         analyte_df = df[df['Analyte Name'] == analyte]
+        # Remove duplicates by keeping the first occurrence for each date
+        analyte_df = analyte_df.drop_duplicates(subset=['Collection Date'], keep='first')
+        
         for _, row in analyte_df.iterrows():
             date = row['Collection Date'].date()
             result = row['Result']

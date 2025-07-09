@@ -262,6 +262,8 @@ else:
                         # Create small trend plot
                         fig, ax = plt.subplots(figsize=(6, 3))
                         sorted_analyte = analyte_df.sort_values('Collection Date')
+                        # Remove duplicates by keeping the first occurrence for each date
+                        sorted_analyte = sorted_analyte.drop_duplicates(subset=['Collection Date'], keep='first')
                         ax.plot(sorted_analyte['Collection Date'], sorted_analyte['Result'], marker='o')
                         
                         if pd.notna(ref_low):
@@ -275,6 +277,8 @@ else:
                     
                     # Show if values are trending up or down
                     sorted_results = analyte_df.sort_values('Collection Date')
+                    # Remove duplicates by keeping the first occurrence for each date
+                    sorted_results = sorted_results.drop_duplicates(subset=['Collection Date'], keep='first')
                     if len(sorted_results) >= 2:
                         first_value = sorted_results['Result'].iloc[0]
                         last_value = sorted_results['Result'].iloc[-1]
